@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Andres%20Artunduaga&fontSize=46&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20%7C%20React%20%2B%20TypeScript%20%7C%20Design%20Systems&descAlignY=58&color=0:0B3D91,100:3B95FF" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Andres%20Artunduaga&fontSize=46&fontAlignY=38&desc=Senior%20Frontend%20Engineer%20%7C%20React%20%2B%20TypeScript%20%7C%20Design%20Systems&descAlignY=58&color=0:0B3D91,100:3B95FF&fontColor=ffffff&descColor=ffffff" alt="Header" />
 </p>
 
 <p align="center">
@@ -55,6 +55,8 @@ I am a bilingual software engineer based in Bogotá, Colombia, with over 10 year
 - **Engineer II / Engineer I, Commure** *(Sep 2020 - Jan 2022)*  
   Worked on microfrontend research, reusable component development, and production reliability for React/Angular platforms.
 
+For the complete timeline and full project details, visit **[r2n.dev](https://r2n.dev)**.
+
 ### Core Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -72,8 +74,14 @@ I am a bilingual software engineer based in Bogotá, Colombia, with over 10 year
 ### GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andres-artunduaga&show_icons=true&hide_border=true&title_color=0962B6&icon_color=0962B6&text_color=2D3748&bg_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-artunduaga&layout=compact&hide_border=true&title_color=0962B6&text_color=2D3748&bg_color=ffffff" alt="Top languages" />
+  <a href="https://github.com/andres-artunduaga">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andres-artunduaga&theme=github" alt="GitHub profile details" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/andres-artunduaga?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andres-artunduaga&theme=github" alt="Top languages by repository" />
+  </a>
 </p>
 
 ## Let's Build Something Valuable
